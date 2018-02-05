@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/Parcels/bin/Debug/netcoreapp1.1/parcel_project.deps.json
+/Users/Guest/Desktop/Parcels/bin/Debug/netcoreapp1.1/parcel_project.runtimeconfig.json
+/Users/Guest/Desktop/Parcels/bin/Debug/netcoreapp1.1/parcel_project.runtimeconfig.dev.json
+/Users/Guest/Desktop/Parcels/obj/Debug/netcoreapp1.1/parcel_project.AssemblyInfo.cs
+/Users/Guest/Desktop/Parcels/bin/Debug/netcoreapp1.1/parcel_project.dll
+/Users/Guest/Desktop/Parcels/bin/Debug/netcoreapp1.1/parcel_project.pdb
+/Users/Guest/Desktop/Parcels/obj/Debug/netcoreapp1.1/parcel_project.dll
+/Users/Guest/Desktop/Parcels/obj/Debug/netcoreapp1.1/parcel_project.pdb
